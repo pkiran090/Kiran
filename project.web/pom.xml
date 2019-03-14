@@ -12,7 +12,7 @@
 	<description>Built with JRebirth Framework</description>
 
 	<properties>
-	Hello Tomcat server
+	Hello Tomcat server--1
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
 		<storepass>storepass</storepass>
